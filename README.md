@@ -1,5 +1,5 @@
 Como usar o transpiler:
-$: ./jjr <codigo.py>
+~: ./jjr <codigo.py>
 
 
 caso um arquivo não seja passado como argumento, o transpiler vai entrar
